@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Video files (too large for GitHub)
+background/*.mp4
+background/long/*.mp4
+
+# Temp files
+temp/
+
+# Python
+__pycache__/
+*.pyc
